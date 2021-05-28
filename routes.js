@@ -1,7 +1,8 @@
 let cards = [
   {id: '1', name: 'First card', status: 'todo', priority: 1},
   {id: '2', name: 'Second card', status: 'progress', priority: 2},
-  {id: '3', name: 'Next card', status: 'review', priority: 3}
+  {id: '3', name: 'Next card', status: 'review', priority: 3},
+  {id: '4', name: 'Next next card', status: 'done', priority: 5}
 ]
 
 function routes(app) {
